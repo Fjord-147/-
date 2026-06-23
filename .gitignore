@@ -1,0 +1,12 @@
+# macOS
+.DS_Store
+
+# VS Code
+.vscode/
+
+# Temporary screenshots
+vscode_screenshot.png
+vscode_scm*.png
+
+# Node.js
+node_modules/
